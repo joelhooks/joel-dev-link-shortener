@@ -1,0 +1,15 @@
+{
+  "name": "joel-dev-link-shortener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "baseUrl": "https://joel.dev",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "author": "Joel Hooks <joelhooks@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "netlify-shortener": "^2.1.1"
+  }
+}
